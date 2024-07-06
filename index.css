@@ -1,0 +1,46 @@
+body{
+    padding: 15px 5%;
+    background-image: url(./images/_110755613_blackberry.jpg.webp);
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+.navbar{
+
+    /* border: 1px solid white; */
+    display: flex;
+    justify-content: space-between;
+    padding: 2px;
+}
+
+.navbar ul{
+    display: flex;
+    justify-content: space-between;
+    gap: 50px;
+    color: white;
+
+}
+.navbar ul li{
+    list-style: none;
+}
+
+.navbar-contact-us{
+    padding: 12px 5px;
+    /* border: 1px solid blue; */
+}
+.navbar-contact-us button{
+    border: none;
+    border-radius: 10px;
+}
+
+.click{
+    border: 1px solid red;
+    padding: 1em 1.5em
+}
+
+p{
+    color: red;
+}
+h3{
+    color: red;
+}
