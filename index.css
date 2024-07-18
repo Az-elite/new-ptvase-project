@@ -1,6 +1,6 @@
 body{
     padding: 15px 5%;
-    background-image: url(./images/_110755613_blackberry.jpg.webp);
+    background-image: url(./images/new\ pic.jpg);
     background-repeat: no-repeat;
     background-size: cover;
 
@@ -35,12 +35,14 @@ body{
 
 .click{
     border: 1px solid red;
-    padding: 1em 1.5em
+    padding-right: ;
+    
+
 }
 
 p{
-    color: red;
+    color: white;
 }
 h3{
-    color: red;
+    color: white;
 }
